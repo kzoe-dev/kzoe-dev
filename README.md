@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Zoe</h1>
+<img src="https://github.com/kzoe-dev/kzoe-dev/blob/main/banner.png" align="center"/>
 
-- studying information technology @ **University of New England**
+- Studying information technology @ **University of New England**
 
-- check out my work: <a href="https://kzoe-dev.github.io/portfolio">kzoe-dev.github.io/portfolio</a>
+- Check out my work: <a href="https://kzoe-dev.github.io/portfolio">kzoe-dev.github.io/portfolio</a>
 
-- reach out to me: **kzoe.dev@gmail.com**
+- Reach out: **kzoe.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
